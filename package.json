@@ -1,0 +1,21 @@
+
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "intro with FreeCodeCamp's intro to backend course",
+  "homepage": "https://github.com/savagerunderscorelex/intro-to-backend#readme",
+  "bugs": {
+    "url": "https://github.com/savagerunderscorelex/intro-to-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savagerunderscorelex/intro-to-backend.git"
+  },
+  "license": "ISC",
+  "author": "Esther",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
